@@ -70,3 +70,6 @@ The ranking engine employs a high-precision multi-factor algorithm running local
 5. **Skill Relevance:** Multiplies skill relevance weights (giving highest priority to NLP/IR/RAG/Vector Search/Embeddings/Evaluation) by proficiency level, duration, and endorsements.
 6. **Platform Activity Multipliers:** Adjusts scores using behavioral signal weights (recency of login activity, recruiter response rate, open-to-work flags, notice period length, and Noida/Pune location/relocation preferences).
 7. **Dynamic Reasonings:** Composes fact-based, non-templated reasoning strings reflecting actual candidate details, location, and potential recruiter concerns (e.g., long notice periods or low platform response rate).
+
+
+[The-Intelligent-Candidate-Discovery-and-Ranking-Engine.pdf](https://github.com/user-attachments/files/29414378/The-Intelligent-Candidate-Discovery-and-Ranking-Engine.pdf)
